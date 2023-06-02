@@ -27,3 +27,7 @@ Abra o arquivo HTML no navegador e pressione Ctrl+P para imprimir e então salve
 - a estrutura das listas estão bem freestyle, tente estilizar a estrutura do layout do jeito que 
 achar melhor
 
+
+## Preview output html from source
+
+[GitHub Pages](https://jrmsrs.github.io/markdown-resume/preview)
